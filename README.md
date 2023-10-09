@@ -4,12 +4,11 @@ Comecei recentemente o curso na B7Web e este é o meu mais novo projeto usando H
 
 🎢 Funcionamento:<br/>
 
-✅ Semântica no HTML
-✅ Flexbox
-✅ Responsividade
-✅ Slides
-✅ Menu mobile
-✅ Posição dos elementos
+✅ Semântica no HTML<br/>
+✅ Flexbox<br/>
+✅ Responsividade<br/>
+✅ Slides<br/>
+✅ Posição dos elementos<br/>
 ✅ CSS Grid<br/>
 
 💻 Tecnologias:<br/>
